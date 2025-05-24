@@ -1,2 +1,2 @@
-# placeholder file
-steps = []
+# steps.py - данные шагов
+steps = [...]
