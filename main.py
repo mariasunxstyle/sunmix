@@ -1,3 +1,3 @@
 
 # coding: utf-8
-# (сюда вставляется содержимое textdoc `sunxstyle_main_debug_ready`, сокращено для примера)
+# финальный блок с универсальной обработкой текста (см. textdoc Sunxstyle Main Final Debug)
