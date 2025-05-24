@@ -1,3 +1,6 @@
-
 # coding: utf-8
-# содержимое steps.py — тайминги всех 12 шагов
+steps = [
+    {'step': 1, 'positions': [{'name': 'Лицом вверх', 'duration_min': 1.5}]},
+    {'step': 2, 'positions': [{'name': 'Лицом вверх', 'duration_min': 2.0}]},
+    {'step': 3, 'positions': [{'name': 'Лицом вверх', 'duration_min': 3.0}]}
+]
